@@ -10,9 +10,10 @@
 
 ### 最新
 
+* [使用Dockerfile构建Centos7镜像/php镜像/wordpress](http://fubincloud.cn/articles/2019/08/24/1566662006622.html)
 * [《转载》 线上服务器出现 CPU 飙升问题该怎么办？](http://fubincloud.cn/articles/2019/08/22/1566488998831.html)
 * [在Docker容器中部署静态网站 ](http://fubincloud.cn/articles/2019/08/18/1566119496434.html)
-* [docker基础知识 - Docker构成/容器命令/守护式容器/镜像操作命令/构建镜像/CS模式/守护进程配置/Dockerfile指令/网络/数据卷/跨主机访问](http://fubincloud.cn/articles/2019/08/18/1566111912448.html)
+* [docker基础知识](http://fubincloud.cn/articles/2019/08/18/1566111912448.html)
 * [看《心灵捕手》肖恩的话有感 - 不要随便评价他人，因为你没有经历过他的人生](http://fubincloud.cn/articles/2019/08/18/1566098699913.html)
 * [jdwp远程调试如何操作](http://fubincloud.cn/articles/2019/08/17/1566048893918.html)
 * [JVM：发展史和源码编译小记](http://fubincloud.cn/articles/2019/08/17/1566046215170.html)
