@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Java调打印机 ireport画模板](http://blog.fubincloud.cn/articles/2019/08/30/1567142630466.html)
+* [BCompare 4 Windows激活方法【试用期30天重置】](http://blog.fubincloud.cn/articles/2019/08/30/1567136168529.html)
 * [Intellij IDEA永久注册码](http://blog.fubincloud.cn/articles/2019/08/28/1566979143252.html)
 * [docker基础知识](http://blog.fubincloud.cn/articles/2019/08/18/1566111912448.html)
 * [看《心灵捕手》肖恩的话有感 - 不要随便评价他人，因为你没有经历过他的人生](http://blog.fubincloud.cn/articles/2019/08/18/1566098699913.html)
