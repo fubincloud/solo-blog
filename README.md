@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Linux查看系统版本号](http://blog.fubincloud.cn/articles/2019/09/03/1567495728498.html)
+* [Snowflake唯一序列号生成算法 - 雪花算法](http://blog.fubincloud.cn/articles/2019/09/03/1567495538582.html)
 * [Java调打印机 ireport画模板](http://blog.fubincloud.cn/articles/2019/08/30/1567142630466.html)
 * [BCompare 4 Windows激活方法【试用期30天重置】](http://blog.fubincloud.cn/articles/2019/08/30/1567136168529.html)
 * [Intellij IDEA永久注册码](http://blog.fubincloud.cn/articles/2019/08/28/1566979143252.html)
