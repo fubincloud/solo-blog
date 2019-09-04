@@ -17,7 +17,6 @@
 * [Intellij IDEA永久注册码](http://blog.fubincloud.cn/articles/2019/08/28/1566979143252.html)
 * [docker基础知识](http://blog.fubincloud.cn/articles/2019/08/18/1566111912448.html)
 * [看《心灵捕手》肖恩的话有感 - 不要随便评价他人，因为你没有经历过他的人生](http://blog.fubincloud.cn/articles/2019/08/18/1566098699913.html)
-* [quicktron working note](http://blog.fubincloud.cn/articles/2019/08/17/1566048893918.html)
 * [JVM：《实战Java虚拟机》阅读笔记](http://blog.fubincloud.cn/articles/2019/08/17/1566046215170.html)
 * [Solo博客部署阿里云记录](http://blog.fubincloud.cn/articles/2019/08/17/1566037580555.html)
 
